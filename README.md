@@ -41,7 +41,7 @@ To view the project locally:
 
 Clone the repository:
 
-git clone https://github.com/yourusername/netflix-dashboard.git  
+git clone https://ra3898.github.io/Netflix-Dashboard/ 
 
 
 
